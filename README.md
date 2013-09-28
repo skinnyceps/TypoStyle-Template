@@ -1,6 +1,6 @@
 TypoStyle-Template
 ==================
-# Here we are!
+## Here we are!
 After a lot of work here is my first template, full responsive, perfect for a blog with a lot of text. 
 This is the first version, I have to fix a few things, but is already usable.
 Let me know if you like it.
